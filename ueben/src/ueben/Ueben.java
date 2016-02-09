@@ -25,7 +25,7 @@ Position = 0;
   
 //Konstruktor ohne Parametera          
 public Ueben (){          
-flugzeugModell = "default";  
+flugzeugModell = "fvo";  
 maxSpeed = 100;          
 Position = 0;          
   }
